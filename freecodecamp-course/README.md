@@ -17,6 +17,12 @@ https://youtu.be/YS4e4q9oBaU?t=5495
 ### Resources
 https://github.com/gophertuts/go-basics/tree/master/go-learning-resources
 
+
+### Udemy Courses
+https://www.udemy.com/user/toddmcleod/
+
+### Blogs
+https://www.calhoun.io/
 ### Go Lang Bridges
 https://blog.golangbridge.org/
 
