@@ -1,3 +1,3 @@
-module github.com/vvezani/golang-playground
+module github.com/vitorvezani/golang-playground
 
 go 1.16
