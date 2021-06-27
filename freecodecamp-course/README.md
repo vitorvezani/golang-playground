@@ -14,6 +14,9 @@ https://youtu.be/YS4e4q9oBaU?t=5495
 
 ## Docs
 
+### Resources
+https://github.com/gophertuts/go-basics/tree/master/go-learning-resources
+
 ### Go Lang Bridges
 https://blog.golangbridge.org/
 
