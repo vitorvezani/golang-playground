@@ -1,4 +1,4 @@
-package main
+package primitives
 
 import "fmt"
 
@@ -18,7 +18,7 @@ var ui16 uint16 = 42
 var ui32 uint32 = 42
 var ui64 uint64 = 42
 
-func primitives() {
+func Primitives() {
 	fmt.Printf("%v, %T", aBoolean, aBoolean)
 
 	fmt.Printf("%v, %T\n", i, i)

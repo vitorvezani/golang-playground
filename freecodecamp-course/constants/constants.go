@@ -1,8 +1,8 @@
-package main
+package constants
 
 import "fmt"
 
-func constants() {
+func Constants() {
 
 	naming()
 	typed()
@@ -20,11 +20,21 @@ func naming() {
 }
 
 func typed() {
-
+	const a = 32
+	var b int16 = 16
+	fmt.Printf("%v, %T", a+b, a+b)
 }
 
-func untyped() {
+const (
+	a = iota
+	b = iota
+	c = iota
+)
 
+func untyped() {
+	fmt.Printf("%v, %T", a, a)
+	fmt.Printf("%v, %T", b, b)
+	fmt.Printf("%v, %T", c, c)
 }
 
 func enumeratedConstants() {
