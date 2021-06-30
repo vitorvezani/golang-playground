@@ -18,6 +18,10 @@ var ui16 uint16 = 42
 var ui32 uint32 = 42
 var ui64 uint64 = 42
 
+func init() {
+	fmt.Println("Init primitive file executed")
+}
+
 func Primitives() {
 	fmt.Printf("%v, %T", aBoolean, aBoolean)
 
