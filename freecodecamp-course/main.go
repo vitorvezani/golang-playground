@@ -1,6 +1,7 @@
 package main
 
 import (
+	"github.com/vitorvezani/golang-playground/freecodecamp-course/arrays"
 	"github.com/vitorvezani/golang-playground/freecodecamp-course/constants"
 	"github.com/vitorvezani/golang-playground/freecodecamp-course/primitives"
 )
@@ -8,4 +9,5 @@ import (
 func main() {
 	primitives.Primitives()
 	constants.Constants()
+	arrays.Arrays()
 }
